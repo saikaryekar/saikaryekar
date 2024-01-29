@@ -12,7 +12,9 @@ I'm Sai Karyekar, a Masters student in Electrical and Computer Engineering (ECE)
 ### Get in Touch
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/sai-karyekar).
-📫 Take a look at my [Resume](https://drive.google.com/drive/folders/1U5225p4KZ1pq9C0walCbN8zq-km582A3?usp=drive_link
+
+📫 Take a look at my [Resume](https://drive.google.com/drive/folders/1U5225p4KZ1pq9C0walCbN8zq-km582A3?usp=drive_link)
+
 📫 Explore some of the interactive dashboards I've created on my [Portfolio](https://linktr.ee/sai.karyekar)
 
 Looking forward to discussing ideas, collaborating on projects, or simply chatting about tech and innovation! 😊
