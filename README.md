@@ -12,13 +12,8 @@ I'm Sai Karyekar, a Masters student in Electrical and Computer Engineering (ECE)
 🛠️ **Tools:** MySQL, Tableau, PowerBI, Git
 
 📊 **Data Science/Visualisation Frameworks:**
-- Tensorflow
-- PyTorch
-- Scikit-learn
-- OpenCV
-- Matplotlib
-- Seaborn
-- PySpark
+
+ [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,selenium,opencv,regex)](https://skillicons.dev)
 
 🔍 **Research and Project Expertise:**
 - Data Analysis
