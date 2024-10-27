@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-I'm Sai Karyekar, a Masters student in Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in Digital Signal Processing (DSP) and Machine Learning.
+I'm Sai Karyekar, a Masters student in Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in  Machine Learning.
 
-### Seeking Summer Internship Opportunities in ML and Data Science
-🔍 Actively on the lookout for exciting Summer 2024 Internship opportunities in the fields of Machine Learning and Data Science. Check out my GitHub for a glimpse of my projects and related work.
+### Seeking Full-Time opportunities in ML and Data Science
+🔍 Actively on the lookout for exciting Full-time opportunities starting May 2025. Check out my GitHub for a glimpse of my projects and related work.
 
 <!--
 ### Skills
