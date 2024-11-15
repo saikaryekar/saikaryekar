@@ -1,25 +1,18 @@
 # Hi there! 👋
 
-I'm Sai Karyekar, a Masters student in Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in  Machine Learning.
+I'm Sai Karyekar, a Masters student studying Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in Machine Learning.
 
-### Seeking Full-Time opportunities in ML and Data Science
-🔍 Actively on the lookout for exciting Full-time opportunities starting May 2025. Check out my GitHub for a glimpse of my projects and related work.
+### Seeking Full-Time opportunities in ML and AI-LLMs
+🔍 Actively on the lookout for Full-time opportunities starting May 2025. Check out my GitHub for a glimpse of my projects.
 
 <!--
 ### Skills
 
-🚀 **Programming Languages:** Python, SQL, R, MATLAB
+🚀 **Programming Languages:** Python, C++, SQL, R, MATLAB
 
-🛠️ **Tools:** MySQL, Tableau, PowerBI, Git
+🛠️ **Tools:** MySQL, Tableau, PowerBI, Git, Linux, D3.js, OpenGL, AWS, GCP, Databricks, Docker
 
-📊 **Data Science/Visualisation Frameworks:**
-
- [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,selenium,opencv,regex)](https://skillicons.dev)
-
-🔍 **Research and Project Expertise:**
-- Data Analysis
-- Computer Vision
-- Interactive Dashboards
+📊 **Frameworks:** Tensorflow, PyTorch, Scikit-learn, OpenCV, LangChain, LlamaIndex PySpark, Scala, CUDA
 -->
 
 ### Get in Touch
@@ -27,8 +20,6 @@ I'm Sai Karyekar, a Masters student in Electrical and Computer Engineering (ECE)
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/sai-karyekar).
 
 📫 Take a look at my [Resume](https://drive.google.com/drive/folders/1U5225p4KZ1pq9C0walCbN8zq-km582A3?usp=drive_link)
-
-📫 Explore some of the interactive dashboards I've created on my [Portfolio](https://linktr.ee/sai.karyekar)
 
 Looking forward to discussing ideas, collaborating on projects, or simply chatting about tech and innovation! 😊
 
