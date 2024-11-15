@@ -19,7 +19,7 @@ I'm Sai Karyekar, a Masters student studying Electrical and Computer Engineering
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/sai-karyekar).
 
-📫 Take a look at my [Resume](https://drive.google.com/drive/folders/1U5225p4KZ1pq9C0walCbN8zq-km582A3?usp=drive_link)
+📫 Take a look at my [Resume](https://github.com/saikaryekar/saikaryekar/blob/main/Sai_Karyekar_Resume.pdf)
 
 Looking forward to discussing ideas, collaborating on projects, or simply chatting about tech and innovation! 😊
 
