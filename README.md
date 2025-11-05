@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-I'm Sai Karyekar, a Masters student studying Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in Machine Learning.
+I'm Sai Karyekar, an SDE at Amazon and a Master's graduate from Georgia Tech (2025), specializing in Machine Learning.
 
-### Seeking Full-Time opportunities in ML and AI-LLMs
-🔍 Actively on the lookout for Full-time opportunities starting May 2025. Check out my GitHub for a glimpse of my projects.
+### Seeking Full-Time opportunities
+🔍 Actively on the lookout for Full-time opportunities starting Dec 2025. Check out my GitHub for a glimpse of my projects.
 
 <!--
 ### Skills
